@@ -1,6 +1,6 @@
 import React from 'react'
 import { render, fireEvent, screen } from '@testing-library/react'
-import IndexPage from '_pages/index'
+import IndexPage from '_pages'
 
 test('shows Index page template', () => {
   render(<IndexPage />)
