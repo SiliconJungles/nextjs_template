@@ -11,7 +11,8 @@
     "plugin:import/errors",
     "plugin:import/warnings",
     "plugin:jest/recommended",
-    "prettier"
+    "prettier",
+    "@storybook/eslint-config-storybook"
   ],
   "settings": {
     "import/resolver": {
